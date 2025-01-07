@@ -1,5 +1,5 @@
-# DataPreprocessingForMLAlgorithms
-A simple script demonstrating common data preprocessing steps:
+# DataPreprocessingToolsForMLModels
+A simple script demonstrating common data preprocessing tools:
 - Reading a dataset
 - Handling missing values
 - Encoding categorical features
