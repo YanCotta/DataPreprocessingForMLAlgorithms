@@ -23,6 +23,6 @@ A simple script demonstrating common data preprocessing tools:
 - Set `test_size` and `random_state` as needed.
 
 ## License
-The project was based on SuperDataScience's exercises/datasets provided on the "Machine Learning A-Z" course I took
-I used their dataset and original exercise as a foundation but made modifications and customizations.
+The project was based on SuperDataScience's exercises/datasets provided on the "Machine Learning A-Z" course I took.
+I used their example/dataset as a foundation,but made my own code with modifications and customizations.
 MIT License. Modify or adapt any part of the code as you wish. ```
